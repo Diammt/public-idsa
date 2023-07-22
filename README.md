@@ -1,7 +1,7 @@
 # public-idsa
 Public readme for project IDSA (Intelligent Defences Schduling Application)
 
-![Logo](https://drive.google.com/file/d/1kS3ygqJcn88AxLq4TQgGAT1CBMQoC9bl/view?usp=drive_link)
+![Logo](https://drive.google.com/uc?export=view&id=1kS3ygqJcn88AxLq4TQgGAT1CBMQoC9bl)
 
 IDSA est une application web de planification des soutenances destinée à aider l’administration
 d’IFRI à organiser au mieux les soutenances. Elle permet par exemple de détecter automatiquement
